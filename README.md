@@ -9,11 +9,11 @@ Clone the repository: git clone https://github.com/ajansha/shellshock.git
 
 Navigate to the directory: cd shellshock
 
-Run the tool: bash./shelly.sh
+Run the tool:  ./shelly.sh
 
 ## License:
 
-CRLF1 is distributed under the [MIT](https://github.com/ajansha/shellshock/blob/main/LICENSE)
+Shelly is distributed under the [MIT](https://github.com/ajansha/shellshock/blob/main/LICENSE)
 
 ## Disclaimer:
 This tool is intended for authorized security assessments and penetration testing activities only. Users should ensure compliance with applicable laws and regulations before using the tool.
